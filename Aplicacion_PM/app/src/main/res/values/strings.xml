@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aplicacion_PM</string>
+    <string name="label_ingrese_nombre">Ingrese su nombre:</string>
+    <string name="button_mostrar_nombre">Mostrar nombre</string>
+    <string name="button_siguiente_pantalla">Ir a la siguiente pantalla</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="Bienvenido">Bienvenido:</string>
+    <string name="Regresar">Regresar:</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet</string>
+    <string name="action_settings">Configuración</string>
+    <string name="first_fragment_label">Primer Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+
+</resources>
